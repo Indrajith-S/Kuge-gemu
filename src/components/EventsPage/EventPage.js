@@ -4,8 +4,8 @@ import './EventPage.css';
 const EventPage = () => {
     return (
         <div className="main">
-            <img className = "gameCard" src="./Images/minecraft.jpeg" alt="Minecraft" id="Minetemp"/>
-            <img className = "gameCard" src="./Images/valo.jpeg" alt="Valorant" id="valotemp"/>
+            <img className = "gameCard" src="./Images/minecraft.png" alt="Minecraft" id="Minetemp"/>
+            <img className = "gameCard" src="./Images/valo.png" alt="Valorant" id="valotemp"/>
         </div>
     );
 }
